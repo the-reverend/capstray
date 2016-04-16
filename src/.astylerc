@@ -1,0 +1,12 @@
+--indent=tab=3
+--brackets=break
+--indent-switches
+--indent-labels
+--unpad-paren
+--pad-paren-in
+--pad-oper
+--keep-one-line-statements
+--keep-one-line-blocks
+--convert-tabs
+--indent-namespaces
+--pad-header
